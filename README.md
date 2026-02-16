@@ -33,6 +33,7 @@ I am continuously expanding my expertise in Machine Learning, Deep Learning, and
 ## AI & Backend Systems, Web Development Projects 
 
 ### [Smart Attendance System (IoT-Based)](https://smart-attendance-system-sfho.onrender.com/) | [Video](https://www.youtube.com/watch?v=pnMwc7k6GP4) | [Real-Field](https://www.facebook.com/story.php?story_fbid=4336262996660591&id=100008308005727&rdid=7EuzpeGDUbitWUGX#)
+ **Type:** Backend Systems / FastAPI / IoT / ESP32 / Web
   - Web-based dashboard (FastAPI,BootStrap,HTML,CSS) for device and attendance management
   - Export attendance data to CSV/Excel files
   - Integrated the device with a cloud-hosted backend to securely transmit attendance data in real time.
