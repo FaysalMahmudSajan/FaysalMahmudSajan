@@ -4,7 +4,7 @@
 
 **AI & Backend Systems Developer (FastAPI) | LLM & Embedding-Based Systems | Python & C/C++ | Problem Solver | DSA | Linux**  
 
-📍 Dhaka, Bangladesh | 📧 faysalmahmud4300@gmail.com | [LinkedIn](https://www.linkedin.com/in/faysal-mahmud-300897226/) 
+📍 Dhaka, Bangladesh | 📧 faysalmahmud4300@gmail.com | [LinkedIn](https://www.linkedin.com/in/faysalmahmudsajan/) 
 
 ---
 ## About Me
