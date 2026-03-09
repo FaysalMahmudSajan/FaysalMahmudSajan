@@ -108,7 +108,7 @@ An autonomous robot that detects fire and extinguishes it.
 
 ## Experience  
 
-- **Python Trainer** – Data Science Lab, DIU *(Aug 2025 – Dec 2025)*  
+- **Python Trainer** – Daffodil International University Robotics Club, DIU *(Aug 2025 – Dec 2025)*  
   Conduct training for 60+ students on **Python and Data Science fundamentals** 
  
 ---
